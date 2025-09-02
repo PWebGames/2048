@@ -1,0 +1,22 @@
+{
+  "name": "2048",
+  "short_name": "2048",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#faf8ef",
+  "theme_color": "#bbada0",
+  "icons": [
+    {
+      "src": "/meta/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
